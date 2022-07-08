@@ -10,7 +10,7 @@
 #
 
 # GLOBAL VARIABLES
-CHKU_PATH=/opt/tivit/checklist-unix
+CHKU_PATH=/opt/checklist-unix
 CHKU_MODULES=$CHKU_PATH/modulos
 CHKU_FILES=$CHKU_PATH/files
 CHKU_LOGS=$CHKU_PATH/logs
